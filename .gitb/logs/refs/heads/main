@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 0bdfa5578c82b7d295fe0b8649a0861cdbc6b373 alex-glez-felix <alex.glez.felix@gmail.com> 1685941757 -0600	commit (initial): Initial commit
+0bdfa5578c82b7d295fe0b8649a0861cdbc6b373 cd02edebefc26bc1bcb701342eaf4dca2e4b6edf alex-glez-felix <alex.glez.felix@gmail.com> 1685942238 -0600	commit: Changed background color and text
+cd02edebefc26bc1bcb701342eaf4dca2e4b6edf a4c9b3f61d6ee83296332651ba2c28a5b8548f46 alex-glez-felix <alex.glez.felix@gmail.com> 1685942424 -0600	commit: Timer text style
+a4c9b3f61d6ee83296332651ba2c28a5b8548f46 31dcf9f86a728f25f36e80f68e40e23a2ba852a9 alex-glez-felix <alex.glez.felix@gmail.com> 1685942584 -0600	commit: Agregar un boton
+31dcf9f86a728f25f36e80f68e40e23a2ba852a9 ef33b743648584fae33dba6bd2e4a4554f470601 alex-glez-felix <alex.glez.felix@gmail.com> 1685942726 -0600	commit: Button style without text
+ef33b743648584fae33dba6bd2e4a4554f470601 25def19daab61a6b9f9e170ee706a60a04cbe1b7 alex-glez-felix <alex.glez.felix@gmail.com> 1685942755 -0600	commit: Centered text in button
+25def19daab61a6b9f9e170ee706a60a04cbe1b7 540049bccc521b874f8386fd936227a8ce5a0614 alex-glez-felix <alex.glez.felix@gmail.com> 1685942830 -0600	commit: Button text bigger
+540049bccc521b874f8386fd936227a8ce5a0614 6d187efeca7ebb97290337205a887ff70d723e9d alex-glez-felix <alex.glez.felix@gmail.com> 1685942916 -0600	commit: More buttons
+6d187efeca7ebb97290337205a887ff70d723e9d cd606ce531041f02bb77922502cce6db684929af alex-glez-felix <alex.glez.felix@gmail.com> 1685943332 -0600	commit: Fixed buttons with flex
+cd606ce531041f02bb77922502cce6db684929af 6f08f15eb68364aea053f22be0969abddd347168 alex-glez-felix <alex.glez.felix@gmail.com> 1685943750 -0600	commit: Added container for lap count
+6f08f15eb68364aea053f22be0969abddd347168 d06c5cba33cf7092ecc55c067eb1ce0c137bc62c alex-glez-felix <alex.glez.felix@gmail.com> 1685943963 -0600	commit: Fixed spacing
+d06c5cba33cf7092ecc55c067eb1ce0c137bc62c 5788a298cbf1150ad953dc6508307547705ca105 alex-glez-felix <alex.glez.felix@gmail.com> 1685944087 -0600	commit: Added states
+5788a298cbf1150ad953dc6508307547705ca105 6b671d9b2ebf37df62b4dae246ec44aec0a216aa alex-glez-felix <alex.glez.felix@gmail.com> 1685944218 -0600	commit: Set state test values
+6b671d9b2ebf37df62b4dae246ec44aec0a216aa 768889512aa93b20b0540e688fe6b62b138de899 alex-glez-felix <alex.glez.felix@gmail.com> 1685944482 -0600	commit: Installed moment
+768889512aa93b20b0540e688fe6b62b138de899 466c612f9627caa7d381f14b63f553a12a81c352 alex-glez-felix <alex.glez.felix@gmail.com> 1685944849 -0600	commit: Format time function
+466c612f9627caa7d381f14b63f553a12a81c352 104d730765a6dd597f137b7e68d18c092ba59223 alex-glez-felix <alex.glez.felix@gmail.com> 1685977848 -0600	commit: Fixed thing
+104d730765a6dd597f137b7e68d18c092ba59223 8c0f0baac2d72a7302a51337e10437a96d4ff822 alex-glez-felix <alex.glez.felix@gmail.com> 1685977872 -0600	commit: Added flatlist to show laps
+8c0f0baac2d72a7302a51337e10437a96d4ff822 c371a5ea5140c188a97025f1bad0d3aacc397972 alex-glez-felix <alex.glez.felix@gmail.com> 1685978321 -0600	commit: Fixed timing in laps
+c371a5ea5140c188a97025f1bad0d3aacc397972 c047c8a399f2cf608608ae7aee9ec4912826e7c3 alex-glez-felix <alex.glez.felix@gmail.com> 1685981826 -0600	commit: Handle start function
+c047c8a399f2cf608608ae7aee9ec4912826e7c3 c361b1e08db6f3f7b2ead2db592c4d51fc40f4c0 alex-glez-felix <alex.glez.felix@gmail.com> 1685981917 -0600	commit: Change text on button depending on if its running
+c361b1e08db6f3f7b2ead2db592c4d51fc40f4c0 2f9a4341c66bb9b938d2fe77d234ffd6e2697f38 alex-glez-felix <alex.glez.felix@gmail.com> 1685982456 -0600	commit: Handle restart
+2f9a4341c66bb9b938d2fe77d234ffd6e2697f38 2f9a4341c66bb9b938d2fe77d234ffd6e2697f38 alex-glez-felix <alex.glez.felix@gmail.com> 1685988150 -0600	Branch: renamed refs/heads/master to refs/heads/master
+2f9a4341c66bb9b938d2fe77d234ffd6e2697f38 2f9a4341c66bb9b938d2fe77d234ffd6e2697f38 alex-glez-felix <alex.glez.felix@gmail.com> 1685988184 -0600	Branch: renamed refs/heads/master to refs/heads/main
+2f9a4341c66bb9b938d2fe77d234ffd6e2697f38 2f9a4341c66bb9b938d2fe77d234ffd6e2697f38 alex-glez-felix <alex.glez.felix@gmail.com> 1685988205 -0600	Branch: renamed refs/heads/main to refs/heads/main
